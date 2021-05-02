@@ -20,4 +20,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/TESTING/FINAL SCENES/DisplayScenePosters.unity
     guid: 91f047b87484e2047b0c641106c8045a
+  - enabled: 1
+    path: Assets/TESTING/FINAL SCENES/DisplaySceneChair.unity
+    guid: 7b0714dc29b5a9448a2986c0896008e0
+  - enabled: 1
+    path: Assets/TESTING/FINAL SCENES/DisplayScenePainting.unity
+    guid: 6b16bd88d0c874243a47b83b617c0427
+  - enabled: 1
+    path: Assets/TESTING/FINAL SCENES/DisplaySceneRug.unity
+    guid: ef72716f7ee2a5c48bccc916519f4498
+  - enabled: 1
+    path: Assets/TESTING/FINAL SCENES/DisplaySceneTable.unity
+    guid: da25bd7616a3dea48a20ebed694e2217
+  - enabled: 1
+    path: Assets/TESTING/FINAL SCENES/DisplaySceneTowel.unity
+    guid: 980627e06e750bf4fa2ba14c4ec89d22
   m_configObjects: {}
